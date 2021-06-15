@@ -1,0 +1,477 @@
+---------------------------
+Mo 7. Okt 18:18:21 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mo 7. Okt 18:19:14 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 14:00:12 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 14:02:19 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+  File "/home/pi/Tango_Devices/Hall_Probe/hallProbe.py", line 59
+    def set_range(self, range)
+                             ^
+SyntaxError: invalid syntax
+---------------------------
+Mi 9. Okt 14:17:33 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 14:20:24 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 14:26:53 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 14:33:21 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 14:38:37 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 15:15:13 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 15:16:16 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+omniORB: Assertion failed.  This indicates a bug in the application
+using omniORB, or maybe in omniORB itself.
+ file: ../../../../../src/lib/omniORB/dynamic/any.cc
+ line: 397
+ info: kind == CORBA::tk_void || kind == CORBA::tk_null
+omniORB: To endpoint: giop:tcp:[::ffff:192.168.1.4]:39194. System exception UNKNOWN(YES,UNKNOWN_UserException) while (un)marshalling. Send GIOP 1.2 MessageError.
+Initialised
+Ready to accept request
+Initialised
+---------------------------
+Mi 9. Okt 15:18:29 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+omniORB: Assertion failed.  This indicates a bug in the application
+using omniORB, or maybe in omniORB itself.
+ file: ../../../../../src/lib/omniORB/dynamic/any.cc
+ line: 397
+ info: kind == CORBA::tk_void || kind == CORBA::tk_null
+omniORB: To endpoint: giop:tcp:[::ffff:192.168.1.4]:59306. System exception UNKNOWN(YES,UNKNOWN_UserException) while (un)marshalling. Send GIOP 1.2 MessageError.
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 15:19:14 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+omniORB: Assertion failed.  This indicates a bug in the application
+using omniORB, or maybe in omniORB itself.
+ file: ../../../../../src/lib/omniORB/dynamic/any.cc
+ line: 397
+ info: kind == CORBA::tk_void || kind == CORBA::tk_null
+omniORB: To endpoint: giop:tcp:[::ffff:192.168.1.4]:58578. System exception UNKNOWN(YES,UNKNOWN_UserException) while (un)marshalling. Send GIOP 1.2 MessageError.
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 15:19:43 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 15:20:13 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 15:20:39 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 15:21:11 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 15:21:45 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 15:24:06 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 15:24:29 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 15:24:32 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 15:27:22 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 17:40:21 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 17:40:31 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 17:41:07 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 17:42:19 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+omniORB: Assertion failed.  This indicates a bug in the application
+using omniORB, or maybe in omniORB itself.
+ file: ../../../../../src/lib/omniORB/dynamic/any.cc
+ line: 397
+ info: kind == CORBA::tk_void || kind == CORBA::tk_null
+omniORB: To endpoint: giop:tcp:[::ffff:192.168.1.4]:43906. System exception UNKNOWN(YES,UNKNOWN_UserException) while (un)marshalling. Send GIOP 1.2 MessageError.
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 17:42:54 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 17:42:57 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+omniORB: Assertion failed.  This indicates a bug in the application
+using omniORB, or maybe in omniORB itself.
+ file: ../../../../../src/lib/omniORB/dynamic/any.cc
+ line: 397
+ info: kind == CORBA::tk_void || kind == CORBA::tk_null
+omniORB: To endpoint: giop:tcp:[::ffff:192.168.1.4]:50446. System exception UNKNOWN(YES,UNKNOWN_UserException) while (un)marshalling. Send GIOP 1.2 MessageError.
+Initialised
+Ready to accept request
+Initialised
+---------------------------
+Mi 9. Okt 17:43:35 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 9. Okt 17:44:36 CEST 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+---------------------------
+Do 31. Okt 15:17:05 CET 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Di 5. Nov 11:30:43 CET 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+---------------------------
+Di 12. Nov 14:17:05 CET 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+---------------------------
+Di 12. Nov 14:17:05 CET 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+Mi 13. Nov 08:50:16 CET 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Tango is not initialised !!!
+Exiting
+---------------------------
+Mi 13. Nov 08:57:23 CET 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+---------------------------
+Sa 16. Nov 14:17:05 CET 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Tango is not initialised !!!
+Exiting
+---------------------------
+Sa 16. Nov 14:23:15 CET 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting AgilisAGP device
+Initialised
+Ready to accept request
+---------------------------
+So 24. Nov 13:42:14 CET 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+Initialised
+Ready to accept request
+---------------------------
+So 24. Nov 15:01:03 CET 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+---------------------------
+So 24. Nov 15:26:27 CET 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+Initialised
+Ready to accept request
+---------------------------
+So 24. Nov 15:40:38 CET 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+Tango is not initialised !!!
+Exiting
+---------------------------
+So 24. Nov 15:47:07 CET 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+---------------------------
+Sa 30. Nov 17:17:05 CET 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+---------------------------
+Mo 2. Dez 11:17:05 CET 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+Tango is not initialised !!!
+Exiting
+---------------------------
+Mo 2. Dez 11:20:04 CET 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+Initialised
+Ready to accept request
+---------------------------
+Mo 2. Dez 11:28:42 CET 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+Tango is not initialised !!!
+Exiting
+---------------------------
+Mo 2. Dez 11:34:12 CET 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+---------------------------
+Sa 21. Dez 07:17:05 CET 2019
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+---------------------------
+So 5. Jan 08:17:05 CET 2020
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+---------------------------
+Sa 11. Jan 07:17:05 CET 2020
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+---------------------------
+Sa 11. Jan 07:17:05 CET 2020
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+---------------------------
+Sa 25. Jan 05:17:05 CET 2020
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+---------------------------
+Sa 25. Jan 05:17:05 CET 2020
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+Initialised
+Ready to accept request
+---------------------------
+Mi 19. Feb 09:07:04 CET 2020
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+Tango is not initialised !!!
+Exiting
+---------------------------
+Mi 19. Feb 09:09:40 CET 2020
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+---------------------------
+Mo 20. Apr 04:17:05 CEST 2020
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+Can't build connection to TANGO database server, exiting
+---------------------------
+Mo 20. Apr 07:17:05 CEST 2020
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+---------------------------
+So 24. Mai 01:17:05 CEST 2020
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+Tango is not initialised !!!
+Exiting
+---------------------------
+So 24. Mai 01:20:00 CEST 2020
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+Initialised
+Ready to accept request
+Initialised
+Initialised
+---------------------------
+Di 4. Aug 23:58:13 CEST 2020
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+---------------------------
+Di 18. Aug 19:17:05 CEST 2020
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+---------------------------
+Sa 19. Sep 20:17:05 CEST 2020
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+---------------------------
+So 8. Nov 01:17:05 CET 2020
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+---------------------------
+Sa 9. Jan 17:17:05 CET 2021
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+---------------------------
+Sa 9. Jan 17:17:05 CET 2021
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+---------------------------
+Do 14. Jan 00:17:11 CET 2021
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+Initialised
+Ready to accept request
+---------------------------
+Mo 18. Jan 02:51:41 CET 2021
+Tangohost:  angstrom.hhg.lab
+---------------------------
+Fr 21. Mai 14:03:56 CEST 2021
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
+Initialised
+Ready to accept request
+---------------------------
+Di 25. Mai 16:30:19 CEST 2021
+Tangohost:  angstrom.hhg.lab
+ping Tangohost successful!
+starting Hall_Probe device
